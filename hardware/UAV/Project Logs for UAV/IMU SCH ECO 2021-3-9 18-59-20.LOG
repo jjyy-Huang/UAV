@@ -1,0 +1,2 @@
+Remove Pin=J3-17 From Net=SCL_MS
+Remove Pin=J3-19 From Net=SDA_MS

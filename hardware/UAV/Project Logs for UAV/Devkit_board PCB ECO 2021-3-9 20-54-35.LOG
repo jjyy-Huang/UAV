@@ -1,0 +1,124 @@
+Removed Pin From Net: NetName=NRST Pin=U9.1-7
+Removed Pin From Net: NetName=USART3_TX Pin=U9.1-29
+Removed Pin From Net: NetName=USART3_RX Pin=U9.1-30
+Removed Pin From Net: NetName=GND Pin=U9.1-60
+Removed Pin From Net: NetName=Y3V3 Pin=U9.2-1
+Removed Pin From Net: NetName=GND Pin=U9.2-12
+Removed Pin From Net: NetName=NetC30_2 Pin=U9.2-13
+Removed Pin From Net: NetName=GND Pin=U9.2-18
+Removed Pin From Net: NetName=Y3V3 Pin=U9.2-19
+Removed Pin From Net: NetName=GND Pin=U9.2-31
+Removed Pin From Net: NetName=Y3V3 Pin=U9.2-32
+Removed Pin From Net: NetName=GND Pin=U9.2-47
+Removed Pin From Net: NetName=Y3V3 Pin=U9.2-48
+Removed Pin From Net: NetName=GND Pin=U9.2-63
+Removed Pin From Net: NetName=Y3V3 Pin=U9.2-64
+Removed Member From Class: ClassName=stm32_core Member=U9.1
+Removed Member From Class: ClassName=stm32_core Member=U9.2
+Added Component: Designator=U?(STM-LQFP64_N)
+Add component (AddParameter): Name = "A/D Converter"; Value = "3x12-bit (16 Channel)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/web/en/home.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00191185.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "D/A Converter"; Value = "2x12-bit (2 Channel)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "256"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "72"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "64-Pin Low Profile Quad Flat Package, 10 x 10 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 4, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F103RCT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-9033-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "01P4099"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "57P1227"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "511-STM32F103RCT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=U?(STM-LQFP64_N)
+Add component (AddParameter): Name = "A/D Converter"; Value = "3x12-bit (16 Channel)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/web/en/home.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00191185.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "D/A Converter"; Value = "2x12-bit (2 Channel)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "256"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "72"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "64-Pin Low Profile Quad Flat Package, 10 x 10 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 4, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F103RCT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-9033-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "01P4099"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "57P1227"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "511-STM32F103RCT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NRST Pin=J6-4
+Added Pin To Net: NetName=Y3V3 Pin=U?-1
+Added Pin To Net: NetName=OSC_IN Pin=U?-5
+Added Pin To Net: NetName=OSC_OUT Pin=U?-6
+Added Pin To Net: NetName=NRST Pin=U?-7
+Added Pin To Net: NetName=KEY0 Pin=U?-8
+Added Pin To Net: NetName=KEY1 Pin=U?-9
+Added Pin To Net: NetName=KEY2 Pin=U?-10
+Added Pin To Net: NetName=KEY3 Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-12
+Added Pin To Net: NetName=NetC30_2 Pin=U?-13
+Added Pin To Net: NetName=RX_CAM Pin=U?-16
+Added Pin To Net: NetName=TX_CAM Pin=U?-17
+Added Pin To Net: NetName=GND Pin=U?-18
+Added Pin To Net: NetName=Y3V3 Pin=U?-19
+Added Pin To Net: NetName=USART3_TX Pin=U?-29
+Added Pin To Net: NetName=USART3_RX Pin=U?-30
+Added Pin To Net: NetName=GND Pin=U?-31
+Added Pin To Net: NetName=Y3V3 Pin=U?-32
+Added Pin To Net: NetName=DIO Pin=U?-46
+Added Pin To Net: NetName=GND Pin=U?-47
+Added Pin To Net: NetName=Y3V3 Pin=U?-48
+Added Pin To Net: NetName=CLK Pin=U?-49
+Added Pin To Net: NetName=GND Pin=U?-60
+Added Pin To Net: NetName=GND Pin=U?-63
+Added Pin To Net: NetName=Y3V3 Pin=U?-64
+Added Pin To Net: NetName=UART4_RX Pin=U?-52
+Added Pin To Net: NetName=UART4_RX Pin=UART4-3
+Added Net: Name=UART4_RX
+Added Pin To Net: NetName=UART4_TX Pin=U?-51
+Added Pin To Net: NetName=UART4_TX Pin=UART4-2
+Added Net: Name=UART4_TX
+Added Pin To Net: NetName=UART5_RX Pin=U?-54
+Added Pin To Net: NetName=UART5_RX Pin=UART5-3
+Added Net: Name=UART5_RX
+Added Pin To Net: NetName=UART5_TX Pin=U?-53
+Added Pin To Net: NetName=UART5_TX Pin=UART5-2
+Added Net: Name=UART5_TX
+Added Pin To Net: NetName=USART1_RX Pin=U?-43
+Added Pin To Net: NetName=USART1_RX Pin=USART1-3
+Added Net: Name=USART1_RX
+Added Pin To Net: NetName=USART1_TX Pin=U?-42
+Added Pin To Net: NetName=USART1_TX Pin=USART1-2
+Added Net: Name=USART1_TX
+Added Member To Class: ClassName=stm32_core Member=Component U? STM32F103RCT6
+Added Member To Class: ClassName=stm32_core Member=Component U? STM32F103RCT6
+Added Room: Name=IMU

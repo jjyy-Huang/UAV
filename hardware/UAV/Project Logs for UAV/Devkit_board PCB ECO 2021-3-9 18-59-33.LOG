@@ -1,0 +1,42 @@
+Added Pin To Net: NetName=SCL_MS Pin=J3-17
+Added Pin To Net: NetName=SDA_MS Pin=J3-19
+Added Pin To Net: NetName=CS_6500 Pin=J2-4
+Added Pin To Net: NetName=CS_6500 Pin=U8-22
+Added Net: Name=CS_6500
+Added Pin To Net: NetName=CS_LSM Pin=J2-16
+Added Pin To Net: NetName=CS_LSM Pin=U6-8
+Added Net: Name=CS_LSM
+Added Pin To Net: NetName=PWM_A1 Pin=J2-5
+Added Pin To Net: NetName=PWM_A1 Pin=MOTOR-PWM-1
+Added Net: Name=PWM_A1
+Added Pin To Net: NetName=PWM_A2 Pin=J2-7
+Added Pin To Net: NetName=PWM_A2 Pin=MOTOR-PWM-2
+Added Net: Name=PWM_A2
+Added Pin To Net: NetName=PWM_B1 Pin=J4-9
+Added Pin To Net: NetName=PWM_B1 Pin=MOTOR-PWM-3
+Added Net: Name=PWM_B1
+Added Pin To Net: NetName=PWM_B2 Pin=J4-11
+Added Pin To Net: NetName=PWM_B2 Pin=MOTOR-PWM-4
+Added Net: Name=PWM_B2
+Added Pin To Net: NetName=RX_BLE Pin=J1-5
+Added Pin To Net: NetName=RX_BLE Pin=U7-1
+Added Net: Name=RX_BLE
+Added Pin To Net: NetName=RX_CAM Pin=J3-5
+Added Net: Name=RX_CAM
+Added Pin To Net: NetName=SPI_MISO Pin=J2-14
+Added Pin To Net: NetName=SPI_MISO Pin=U6-7
+Added Pin To Net: NetName=SPI_MISO Pin=U8-9
+Added Net: Name=SPI_MISO
+Added Pin To Net: NetName=SPI_MOSI Pin=J2-12
+Added Pin To Net: NetName=SPI_MOSI Pin=U6-6
+Added Pin To Net: NetName=SPI_MOSI Pin=U8-24
+Added Net: Name=SPI_MOSI
+Added Pin To Net: NetName=SPI_SCL Pin=J1-13
+Added Pin To Net: NetName=SPI_SCL Pin=U6-4
+Added Pin To Net: NetName=SPI_SCL Pin=U8-23
+Added Net: Name=SPI_SCL
+Added Pin To Net: NetName=TX_BLE Pin=J1-7
+Added Pin To Net: NetName=TX_BLE Pin=U7-2
+Added Net: Name=TX_BLE
+Added Pin To Net: NetName=TX_CAM Pin=J3-7
+Added Net: Name=TX_CAM

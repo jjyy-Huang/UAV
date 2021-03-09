@@ -1,0 +1,57 @@
+Net Status Report
+Filename     : D:\UAV\hardware\UAV\Devkit_board.PcbDoc
+Date         : 2021/3/9
+Time         : 20:06:04
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    5V, Signal Layers Only, 0mm
+    5V_CAM, Signal Layers Only, 0mm
+    5V_DSP, Signal Layers Only, 0mm
+    5V_IN, Signal Layers Only, 0mm
+    B3V3, Signal Layers Only, 0mm
+    C3V3, Signal Layers Only, 0mm
+    CLK, Signal Layers Only, 0mm
+    CS_6500, Signal Layers Only, 0mm
+    CS_LSM, Signal Layers Only, 0mm
+    DIO, Signal Layers Only, 0mm
+    GND, Signal Layers Only, 0mm
+    KEY0, Signal Layers Only, 0mm
+    KEY1, Signal Layers Only, 0mm
+    KEY2, Signal Layers Only, 0mm
+    KEY3, Signal Layers Only, 0mm
+    NRST, Signal Layers Only, 0mm
+    NetC17_1, Signal Layers Only, 0mm
+    NetC17_2, Signal Layers Only, 0mm
+    NetC18_1, Signal Layers Only, 0mm
+    NetC22_1, Signal Layers Only, 0mm
+    NetC30_2, Signal Layers Only, 0mm
+    NetLED1_1, Signal Layers Only, 0mm
+    NetLED2_1, Signal Layers Only, 0mm
+    NetLED3_1, Signal Layers Only, 0mm
+    NetR7_2, Signal Layers Only, 0mm
+    OSC_IN, Signal Layers Only, 0mm
+    OSC_OUT, Signal Layers Only, 0mm
+    PWM_A1, Signal Layers Only, 0mm
+    PWM_A2, Signal Layers Only, 0mm
+    PWM_B1, Signal Layers Only, 0mm
+    PWM_B2, Signal Layers Only, 0mm
+    RX_BLE, Signal Layers Only, 0mm
+    RX_CAM, Signal Layers Only, 0mm
+    S3V3, Signal Layers Only, 0mm
+    SCL_MS, Signal Layers Only, 0mm
+    SDA_MS, Signal Layers Only, 0mm
+    SPI_MISO, Signal Layers Only, 0mm
+    SPI_MOSI, Signal Layers Only, 0mm
+    SPI_SCL, Signal Layers Only, 0mm
+    TX_BLE, Signal Layers Only, 0mm
+    TX_CAM, Signal Layers Only, 0mm
+    USART3_RX, Signal Layers Only, 0mm
+    USART3_TX, Signal Layers Only, 0mm
+    VBAT, Signal Layers Only, 0mm
+    VBEC, Signal Layers Only, 0mm
+    VBEC_CAM, Signal Layers Only, 0mm
+    VCC, Signal Layers Only, 0mm
+    VLDT, Signal Layers Only, 0mm
+    Y3V3, Signal Layers Only, 0mm
+count : 49

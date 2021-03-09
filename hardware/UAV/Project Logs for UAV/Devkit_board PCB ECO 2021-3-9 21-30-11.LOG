@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=KEY0 Pin=U9-8
+Removed Pin From Net: NetName=KEY1 Pin=U9-9
+Removed Pin From Net: NetName=KEY2 Pin=U9-10
+Removed Pin From Net: NetName=KEY3 Pin=U9-11
+Added Pin To Net: NetName=KEY0 Pin=U9-33
+Added Pin To Net: NetName=KEY1 Pin=U9-34
+Added Pin To Net: NetName=KEY2 Pin=U9-35
+Added Pin To Net: NetName=KEY3 Pin=U9-36
+Added Room: Name=IMU

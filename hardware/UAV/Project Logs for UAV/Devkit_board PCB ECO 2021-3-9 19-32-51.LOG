@@ -1,0 +1,124 @@
+Removed Pin From Net: NetName=C3V3 Pin=J1-1
+Removed Pin From Net: NetName=5V_IN Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=RX_BLE Pin=J1-5
+Removed Pin From Net: NetName=TX_BLE Pin=J1-7
+Removed Pin From Net: NetName=VLDT Pin=J1-12
+Removed Pin From Net: NetName=SPI_SCL Pin=J1-13
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=CS_6500 Pin=J2-4
+Removed Pin From Net: NetName=PWM_A1 Pin=J2-5
+Removed Pin From Net: NetName=PWM_A2 Pin=J2-7
+Removed Pin From Net: NetName=SPI_MOSI Pin=J2-12
+Removed Pin From Net: NetName=SPI_MISO Pin=J2-14
+Removed Pin From Net: NetName=CS_LSM Pin=J2-16
+Removed Pin From Net: NetName=C3V3 Pin=J3-1
+Removed Pin From Net: NetName=5V_IN Pin=J3-2
+Removed Pin From Net: NetName=GND Pin=J3-4
+Removed Pin From Net: NetName=RX_CAM Pin=J3-5
+Removed Pin From Net: NetName=TX_CAM Pin=J3-7
+Removed Pin From Net: NetName=SCL_MS Pin=J3-17
+Removed Pin From Net: NetName=SDA_MS Pin=J3-19
+Removed Pin From Net: NetName=GND Pin=J4-2
+Removed Pin From Net: NetName=PWM_B1 Pin=J4-9
+Removed Pin From Net: NetName=PWM_B2 Pin=J4-11
+Removed Member From Class: ClassName=IMU Member=J1
+Removed Member From Class: ClassName=IMU Member=J2
+Removed Member From Class: ClassName=IMU Member=J3
+Removed Member From Class: ClassName=IMU Member=J4
+Added Component: Designator=H1(HDR-SMD_10P-P2.54-V-R2-C5-S7.3)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "95278-101A10LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C178296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "95278-101A10LF"; VariantName = "[No Variations]"
+Added Component: Designator=H2(HDR-SMD_10P-P2.54-V-R2-C5-S7.3)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "95278-101A10LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C178296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "95278-101A10LF"; VariantName = "[No Variations]"
+Added Component: Designator=H3(HDR-SMD_10P-P2.54-V-R2-C5-S7.3)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "95278-101A10LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C178296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "95278-101A10LF"; VariantName = "[No Variations]"
+Added Component: Designator=H4(HDR-SMD_10P-P2.54-V-R2-C5-S7.3)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "95278-101A10LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C178296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "95278-101A10LF"; VariantName = "[No Variations]"
+Added Component: Designator=H5(HDR-SMD_10P-P2.54-V-R2-C5-S7.3)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "95278-101A10LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C178296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "95278-101A10LF"; VariantName = "[No Variations]"
+Added Component: Designator=H6(HDR-SMD_10P-P2.54-V-R2-C5-S7.3)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "95278-101A10LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C178296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "95278-101A10LF"; VariantName = "[No Variations]"
+Added Component: Designator=H7(HDR-SMD_10P-P2.54-V-R2-C5-S7.3)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "95278-101A10LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C178296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "95278-101A10LF"; VariantName = "[No Variations]"
+Added Component: Designator=H8(HDR-SMD_10P-P2.54-V-R2-C5-S7.3)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Amphenol ICC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "95278-101A10LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C178296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "95278-101A10LF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=C3V3 Pin=H1-1
+Added Pin To Net: NetName=5V_IN Pin=H1-2
+Added Pin To Net: NetName=GND Pin=H1-4
+Added Pin To Net: NetName=RX_BLE Pin=H1-5
+Added Pin To Net: NetName=TX_BLE Pin=H1-7
+Added Pin To Net: NetName=VLDT Pin=H2-2
+Added Pin To Net: NetName=SPI_SCL Pin=H2-3
+Added Pin To Net: NetName=GND Pin=H3-2
+Added Pin To Net: NetName=CS_6500 Pin=H3-4
+Added Pin To Net: NetName=PWM_A1 Pin=H3-5
+Added Pin To Net: NetName=PWM_A2 Pin=H3-7
+Added Pin To Net: NetName=SPI_MOSI Pin=H4-2
+Added Pin To Net: NetName=SPI_MISO Pin=H4-4
+Added Pin To Net: NetName=CS_LSM Pin=H4-6
+Added Pin To Net: NetName=C3V3 Pin=H5-1
+Added Pin To Net: NetName=5V_IN Pin=H5-2
+Added Pin To Net: NetName=GND Pin=H5-4
+Added Pin To Net: NetName=RX_CAM Pin=H5-5
+Added Pin To Net: NetName=TX_CAM Pin=H5-7
+Added Pin To Net: NetName=SCL_MS Pin=H6-7
+Added Pin To Net: NetName=SDA_MS Pin=H6-9
+Added Pin To Net: NetName=GND Pin=H7-2
+Added Pin To Net: NetName=PWM_B1 Pin=H7-9
+Added Pin To Net: NetName=PWM_B2 Pin=H8-1
+Added Member To Class: ClassName=IMU Member=Component H1 95278-101A10LF
+Added Member To Class: ClassName=IMU Member=Component H2 95278-101A10LF
+Added Member To Class: ClassName=IMU Member=Component H3 95278-101A10LF
+Added Member To Class: ClassName=IMU Member=Component H4 95278-101A10LF
+Added Member To Class: ClassName=IMU Member=Component H5 95278-101A10LF
+Added Member To Class: ClassName=IMU Member=Component H6 95278-101A10LF
+Added Member To Class: ClassName=IMU Member=Component H7 95278-101A10LF
+Added Member To Class: ClassName=IMU Member=Component H8 95278-101A10LF

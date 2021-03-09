@@ -1,0 +1,18 @@
+Remove Pin=U1A-8 From Net=KEY0
+Remove Pin=U1A-9 From Net=KEY1
+Remove Pin=U1A-10 From Net=KEY2
+Remove Pin=U1A-11 From Net=KEY3
+Remove Pin=U1A-16 From Net=RX_CAM
+Remove Pin=U1A-17 From Net=TX_CAM
+Remove Pin=U1A-29 From Net=USART3_TX
+Remove Pin=U1A-30 From Net=USART3_RX
+Remove Pin=U1A-42 From Net=USART1_TX
+Remove Pin=U1A-43 From Net=USART1_RX
+Remove Pin=U1A-46 From Net=DIO
+Remove Pin=U1A-49 From Net=CLK
+Remove Pin=U1A-51 From Net=UART4_TX
+Remove Pin=U1A-52 From Net=UART4_RX
+Remove Pin=U1A-53 From Net=UART5_TX
+Remove Pin=U1A-54 From Net=UART5_RX
+Change Component Designator: OldDesignator=U1 NewDesignator=U?
+Change Component Designator: OldDesignator=U1 NewDesignator=U?

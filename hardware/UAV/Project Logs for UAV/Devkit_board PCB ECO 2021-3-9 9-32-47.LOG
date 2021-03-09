@@ -1,0 +1,151 @@
+Added Component: Designator=13(C0805)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TMK212BBJ106KG-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C386085"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TMK212BBJ106KG-T"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C0805)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TMK212BBJ106KG-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C386085"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TMK212BBJ106KG-T"; VariantName = "[No Variations]"
+Added Component: Designator=C16(C0805)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TMK212BBJ106KG-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C386085"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TMK212BBJ106KG-T"; VariantName = "[No Variations]"
+Added Component: Designator=C20(C0805)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TMK212BBJ106KG-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C386085"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TMK212BBJ106KG-T"; VariantName = "[No Variations]"
+Added Component: Designator=C35(C0805)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TMK212BBJ106KG-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C386085"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TMK212BBJ106KG-T"; VariantName = "[No Variations]"
+Added Component: Designator=C37(C0805)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TMK212BBJ106KG-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C386085"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Capacitance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TMK212BBJ106KG-T"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SW-TH_SK-12D02VG3)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Rectangular Connectors - Contacts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SK-12D02-VG5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C136722"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "SK-12D02-VG5"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SW-TH_SK-12D02VG3)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "Rectangular Connectors - Contacts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SK-12D02-VG5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C136722"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "SK-12D02-VG5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V_CAM Pin=C35-2
+Added Pin To Net: NetName=5V_CAM Pin=SW2-3
+Added Net: Name=5V_CAM
+Added Net: Name=5V_DSP
+Added Net: Name=5V_IN
+Added Pin To Net: NetName=5V Pin=C11-2
+Added Pin To Net: NetName=5V Pin=SW1-3
+Added Net: Name=5V
+Added Net: Name=B3V3
+Added Pin To Net: NetName=C3V3 Pin=13-2
+Added Net: Name=C3V3
+Added Net: Name=CLK
+Added Net: Name=CS_6500
+Added Net: Name=CS_LSM
+Added Net: Name=DIO
+Added Pin To Net: NetName=GND Pin=13-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Net: Name=GND
+Added Net: Name=KEY0
+Added Net: Name=KEY1
+Added Net: Name=KEY2
+Added Net: Name=KEY3
+Added Net: Name=NetC17_1
+Added Net: Name=NetC17_2
+Added Net: Name=NetC18_1
+Added Net: Name=NetC22_1
+Added Net: Name=NetC30_2
+Added Net: Name=NetLED1_1
+Added Net: Name=NetLED2_1
+Added Net: Name=NetLED3_1
+Added Net: Name=NetR7_2
+Added Net: Name=NRST
+Added Net: Name=OSC_IN
+Added Net: Name=OSC_OUT
+Added Net: Name=PWM_A1
+Added Net: Name=PWM_A2
+Added Net: Name=PWM_B1
+Added Net: Name=PWM_B2
+Added Net: Name=RX_BLE
+Added Net: Name=RX_CAM
+Added Pin To Net: NetName=S3V3 Pin=C16-2
+Added Pin To Net: NetName=S3V3 Pin=C20-2
+Added Net: Name=S3V3
+Added Net: Name=SCL_MS
+Added Net: Name=SDA_MS
+Added Net: Name=SPI_MISO
+Added Net: Name=SPI_MOSI
+Added Net: Name=SPI_SCL
+Added Net: Name=TX_BLE
+Added Net: Name=TX_CAM
+Added Net: Name=UART4_RX
+Added Net: Name=UART4_TX
+Added Net: Name=UART5_RX
+Added Net: Name=UART5_TX
+Added Net: Name=USART1_RX
+Added Net: Name=USART1_TX
+Added Net: Name=USART3_RX
+Added Net: Name=USART3_TX
+Added Net: Name=VBAT
+Added Pin To Net: NetName=VBEC_CAM Pin=SW2-2
+Added Net: Name=VBEC_CAM
+Added Pin To Net: NetName=VBEC Pin=SW1-2
+Added Net: Name=VBEC
+Added Net: Name=VCC
+Added Net: Name=VLDT
+Added Pin To Net: NetName=Y3V3 Pin=C37-2
+Added Net: Name=Y3V3
+Added Member To Class: ClassName=IMU Member=Component 13 10uF
+Added Member To Class: ClassName=IMU Member=Component C11 10uF
+Added Member To Class: ClassName=IMU Member=Component C16 10uF
+Added Member To Class: ClassName=IMU Member=Component C20 10uF
+Added Member To Class: ClassName=stm32_core Member=Component C35 10uF
+Added Member To Class: ClassName=stm32_core Member=Component C37 10uF
+Added Member To Class: ClassName=IMU Member=Component SW1 主控电源开关
+Added Member To Class: ClassName=IMU Member=Component SW2 视觉电源开关
+Added Room: Name=IMU
+Added Room: Name=stm32_core
